@@ -1,1 +1,1 @@
-"# graptor-agent" 
+- Graptor-Agent (Cloudflare AI Agent): AI-powered codebase navigator built on Cloudflare Agents and Workers AI, leveraging Graptor for embeddings and RAG.
