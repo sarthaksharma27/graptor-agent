@@ -159,7 +159,7 @@ export default function Chat() {
           </div>
 
           <div className="flex-1">
-            <h2 className="font-semibold text-base">Graptor chat agent</h2>
+            <h2 className="font-semibold text-base">Ask Your Code</h2>
           </div>
 
           <div className="flex items-center gap-2 mr-2">
